@@ -1,1 +1,2 @@
-merhaba bu degisiklik git new-feature-1 de yapildimerhaba bu degisiklik git new-feature-1 de yapildimerhaba bu degisiklik git new-feature-1 de yapildi
+merhaba bu degisiklik git new-feature-1 de yapildimerhaba bu degisiklik git new-feature-1
+new feature 2 de yapildii
